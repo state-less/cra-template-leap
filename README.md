@@ -5,7 +5,7 @@ An progressive web app template for [Create React App](https://github.com/facebo
 To use this template add `--template pwa` when creating a new app:
 
 ```sh
-npx create-react-app my-app --template pwa
+npx create-react-app my-app --template state-less/leap
 ```
 
 ## Learn more
